@@ -1,0 +1,17 @@
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Domain.deps.json
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Domain.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Domain.pdb
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Data.Interface.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Domain.Interface.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Data.Interface.pdb
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\bin\Debug\net6.0\Pizza.Domain.Interface.pdb
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.csproj.AssemblyReference.cache
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.AssemblyInfoInputs.cache
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.AssemblyInfo.cs
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.csproj.CoreCompileInputs.cache
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.csproj.CopyComplete
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\refint\Pizza.Domain.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\Pizza.Domain.pdb
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Domain\obj\Debug\net6.0\ref\Pizza.Domain.dll

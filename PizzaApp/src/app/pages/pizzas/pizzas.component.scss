@@ -1,0 +1,17 @@
+@import '/src/styles/variables';
+@import '/src/styles/mixins';
+
+.pizzas {
+  &__listContainer {
+    max-width: 960px;
+    width: calc(100% - 30px);
+    margin: 0 auto;
+  }
+
+  &__list {
+    padding: 20px;
+    min-height: 500px;
+    background-color: #fff;
+    border-radius: 15px;
+  }
+}

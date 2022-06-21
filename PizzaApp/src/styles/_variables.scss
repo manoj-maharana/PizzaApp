@@ -1,0 +1,33 @@
+$dark: #0C0C0C;
+$gray: #727272;
+$gray-l: #cfcfcf;
+$crimson: #E42434;
+$blue: #2477e4;
+
+// Color Map
+$colors: (
+  'crimson': $crimson,
+  'dark': $dark,
+  'gray': $gray,
+  'gray-l': $gray-l,
+);
+// END
+
+// Icon Map
+$icons: (
+  'sm': 18px,
+  'lg': 20px,
+  '2x': 25px,
+  '3x': 30px,
+  '4x': 35px,
+  '5x': 40px,
+);
+
+// Font-weight Map
+$weights: (
+  '300': 300,
+  '400': 400,
+  '500': 500,
+  '600': 600,
+  '700': 700,
+);

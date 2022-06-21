@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza\\Pizza.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj",
+        "projectName": "Pizza.Data.Interface",
+        "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj",
+        "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data\\Pizza.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data\\Pizza.Data.csproj",
+        "projectName": "Pizza.Data",
+        "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data\\Pizza.Data.csproj",
+        "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj",
+        "projectName": "Pizza.Domain.Interface",
+        "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\Pizza.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\Pizza.Domain.csproj",
+        "projectName": "Pizza.Domain",
+        "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\Pizza.Domain.csproj",
+        "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj"
+              },
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza\\Pizza.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza\\Pizza.API.csproj",
+        "projectName": "Pizza.API",
+        "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza\\Pizza.API.csproj",
+        "packagesPath": "C:\\Users\\manoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data.Interface\\Pizza.Data.Interface.csproj"
+              },
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data\\Pizza.Data.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Data\\Pizza.Data.csproj"
+              },
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain.Interface\\Pizza.Domain.Interface.csproj"
+              },
+              "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\Pizza.Domain.csproj": {
+                "projectPath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\Pizza.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Versioning": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

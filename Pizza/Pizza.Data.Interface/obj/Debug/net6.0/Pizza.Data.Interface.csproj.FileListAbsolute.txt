@@ -1,0 +1,12 @@
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\bin\Debug\net6.0\Pizza.Data.Interface.deps.json
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\bin\Debug\net6.0\Pizza.Data.Interface.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\bin\Debug\net6.0\Pizza.Data.Interface.pdb
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.csproj.AssemblyReference.cache
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.AssemblyInfoInputs.cache
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.AssemblyInfo.cs
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.csproj.CoreCompileInputs.cache
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\refint\Pizza.Data.Interface.dll
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\Pizza.Data.Interface.pdb
+C:\Users\manoj\OneDrive\Desktop\Projects\Pizza\Pizza.Data.Interface\obj\Debug\net6.0\ref\Pizza.Data.Interface.dll

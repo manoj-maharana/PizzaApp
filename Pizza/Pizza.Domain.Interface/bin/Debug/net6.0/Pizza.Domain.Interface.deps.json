@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pizza.Domain.Interface/1.0.0": {
+        "runtime": {
+          "Pizza.Domain.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

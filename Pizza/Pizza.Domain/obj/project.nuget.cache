@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tupREfUTfJQTc+6ynhQhmIBNtiw5r2uvaMwJf2FUQz9OSh0OfIcLltXLx/E2987DTnDPEUH8FcWfPUBJYMiPeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manoj\\OneDrive\\Desktop\\Projects\\Pizza\\Pizza.Domain\\Pizza.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
